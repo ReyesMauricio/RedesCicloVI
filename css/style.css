@@ -1,0 +1,23 @@
+.principal{
+    background: royalblue;
+    color: #fff;
+    text-align: center;
+}
+
+.secundario{
+    margin: 3%;
+    background: rgba(0, 0, 139, 0.37);
+    color: #fff;
+    text-align: center;
+}
+
+div[class|="col"]{
+    border: 1px solid rgba(92, 60, 20, 0.635);
+    padding: 1em;
+}
+
+a:hover {
+    background-color: rgba(58, 44, 44, 0.507);
+  }
+
+  img
